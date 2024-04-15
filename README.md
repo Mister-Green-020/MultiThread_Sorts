@@ -1,4 +1,3 @@
 Testing Multi-threaded search algorithms
 
-
-Note: Threading seems to slow down the merge sort algorithm.
+Note: Python only allows one thread to work at a time (i.e. parallel processing is not possible with python threads)
